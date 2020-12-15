@@ -15779,5 +15779,6 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 body {
-    margin: ;
+  margin: 0 15%;
+  box-shadow: 0 0 30px black;
 }
